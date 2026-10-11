@@ -1,0 +1,1 @@
+# configuring-the-terminal-as-i-want-
