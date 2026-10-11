@@ -11,7 +11,7 @@ The goal is simple: create a terminal setup that looks the way you want without 
 - A Fastfetch layout showing your OS, kernel, CPU, GPU, memory, and more.
 - An easy way to change your PFP whenever you want.
 
-> **Note:** Add a screenshot of your actual terminal here so visitors can preview the result.
+
 
 ## Requirements
 
