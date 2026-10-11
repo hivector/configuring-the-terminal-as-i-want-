@@ -1,1 +1,26 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
 
+  "logo": {
+    "type": "kitty-direct",
+    "source": "/home/your-username/Pictures/kitty/logo.png",
+    "width": 22,
+    "height": 11,
+    "padding": {
+      "right": 4
+    }
+  },
+
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "shell",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "battery"
+  ]
+}
