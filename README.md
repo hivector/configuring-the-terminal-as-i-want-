@@ -288,19 +288,6 @@ Check that the JSONC structure is valid, that the configuration contains no dupl
 
 You can also consult the [Fastfetch documentation](https://github.com/fastfetch-cli/fastfetch).
 
-## Suggested Repository Structure
-
-If you want to keep your setup organized on GitHub, use a structure like this:
-
-```text
-configuring-the-terminal-as-i-want/
-├── README.md
-├── screenshots/
-│   └── kitty-preview.png
-└── config/
-    ├── kitty.conf
-    └── config.jsonc
-```
 
 The configuration files are optional examples that readers can inspect or adapt for their own systems. Remove personal information and machine-specific paths before sharing them.
 
